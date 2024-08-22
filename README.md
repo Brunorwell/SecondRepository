@@ -1,2 +1,2 @@
 # SecondRepository
-This repository is intend to practice GIT commands
+This repository is intended to practice GIT commands
